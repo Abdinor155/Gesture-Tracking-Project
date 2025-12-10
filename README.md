@@ -36,10 +36,10 @@ REQUIRED HARDWARE:
 - Good lighting conditions
 
 FILES INCLUDED:
-1. hand_tracker.py - Basic hand detection (Day 2)
-2. finger_tracker.py - Finger tracking with trail (Day 3)
-3. button_tracker.py - Virtual button interaction (Day 4)
-4. gesture_tracker.py - Main program with gesture recognition (Day 5)
+1. hand_tracker.py - Basic hand detection
+2. finger_tracker.py - Finger tracking with trail 
+3. button_tracker.py - Virtual button interaction 
+4. gesture_tracker.py - Main program with gesture recognition 
 5. requirements.txt - Python dependencies
 6. README.txt - This file
 7. demo_video.mp4 - 1-minute demonstration video
@@ -65,6 +65,6 @@ TROUBLESHOOTING:
 3. If program is slow: Make sure no other programs are using the webcam
 
 NOTE:
-This project was developed step-by-step over 7 days as part of a computer vision learning project.
+This project was developed step-by-step as part of a computer vision learning project.
 
 Contact: Abdinor155@gmail.com
